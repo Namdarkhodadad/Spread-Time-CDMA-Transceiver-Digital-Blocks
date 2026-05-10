@@ -79,7 +79,7 @@ This repository includes:
 - Receiver baseband Verilog modules
 - Timing synchronization/control logic
 - PISO modules
-- FPGA-compatible FFT/DDS/FIR examples
+- FPGA-compatible FFT/DDS/FIR examples (IP Cores)
 - System block diagrams
 - Example simulation and implementation files
 
@@ -98,6 +98,4 @@ The block diagrams of:
 
 
 
-are provided below.
-
-After the figures, each folder and source file in this repository is explained separately.
+are provided above.
