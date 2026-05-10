@@ -85,6 +85,8 @@ This repository includes:
 
 The block diagrams of:
 - the transmitter baseband
+  <img width="895" height="457" alt="Screenshot 1405-02-20 at 14 00 47" src="https://github.com/user-attachments/assets/62bcf674-28d0-47a8-83f8-fc062b3055d4" />
+
 - receiver baseband
 - Digital PLL
 - and a simplified RF receiver overview
