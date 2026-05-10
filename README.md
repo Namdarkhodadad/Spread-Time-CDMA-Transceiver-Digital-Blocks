@@ -87,9 +87,16 @@ The block diagrams of:
 - the transmitter baseband
   <img width="895" height="457" alt="Screenshot 1405-02-20 at 14 00 47" src="https://github.com/user-attachments/assets/62bcf674-28d0-47a8-83f8-fc062b3055d4" />
 
+- A simplified RF receiver overview
+  <img width="1087" height="518" alt="Screenshot 1405-02-20 at 14 01 08" src="https://github.com/user-attachments/assets/9e9431af-4ea7-46ae-8091-4cb4c45f801c" />
+  
 - receiver baseband
+  <img width="1156" height="573" alt="Screenshot 1405-02-20 at 14 01 25" src="https://github.com/user-attachments/assets/158f0943-3960-4b9a-a17d-ab84c867e211" />
+  
 - Digital PLL
-- and a simplified RF receiver overview
+  <img width="1156" height="468" alt="Screenshot 1405-02-20 at 14 01 35" src="https://github.com/user-attachments/assets/74908785-ded1-4e2b-8656-bebeed039494" />
+
+
 
 are provided below.
 
